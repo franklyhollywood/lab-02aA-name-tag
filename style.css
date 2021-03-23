@@ -6,7 +6,7 @@
 
 div {
     background-color: lightgray;
-    height: 200px;
+    height: 2                                            00px;
     width: 300px;
     margin: 5px;
 }
@@ -16,25 +16,21 @@ main {
     color: white;
     border-radius: 10px;
     height: 150px;
-
 }
 
 header {
     margin: 10px 10px; 
    
 }
+
 h1 {
     font-size: 50px;
-    padding: 5px;
-    margin: 0px 0px;
-  
-
-    
+    margin: 0px;
 }
 
 h2 {
-    padding: 5px 0px;
-    margin: 0px 0px;
+    padding: 0px;
+    margin: 0px;
     
 }
 section {
@@ -45,7 +41,6 @@ section {
     height: 30px;
     
     
-
 }
 footer {
     background-color: red;
