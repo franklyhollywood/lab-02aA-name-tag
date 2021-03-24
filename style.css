@@ -49,3 +49,13 @@ footer {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
+
+#pinkButton {
+    background-color: pink;
+}
+#greenButton {
+    background-color: lightgreen;
+}
+#blueButton {
+    background-color: lightblue;
+}
