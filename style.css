@@ -25,6 +25,7 @@ header {
 }
 
 h1 {
+    
     font-size: 50px;
     margin: 0px;
 }
@@ -52,6 +53,7 @@ footer {
 
 #pinkButton {
     background-color: pink;
+    
 }
 #greenButton {
     background-color: lightgreen;
