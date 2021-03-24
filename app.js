@@ -5,6 +5,7 @@ const displayName = document.getElementById('nameField');
 nameChange.addEventListener('click', () => {
     if(nameInput.value === '') return;
     displayName.textContent = nameInput.value;
+    nameInput.value = '';
 
 });
 
